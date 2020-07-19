@@ -124,5 +124,10 @@
   "defaultProject": "game-town-front",
   "cli": {
     "analytics": "bce25f65-059e-40d6-ab27-0ff6f98650b9"
+  },
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "scss"
+    }
   }
 }
